@@ -1,5 +1,5 @@
 # Conpot-Honeypot-on-Microsoft-AZURE
-Create Industrial Control System in cloud environment : Microsoft AZURE case
+Create Industrial Control System honeypot in cloud environment : Microsoft AZURE case
 
 
 *Conpot* is an open-source industrial control system (ICS) honeypot designed to mimic industrial devices like PLCs, HMI, and SCADA systems. <br>
