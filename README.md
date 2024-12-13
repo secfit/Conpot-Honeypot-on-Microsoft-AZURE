@@ -100,7 +100,9 @@ Once you install Linux server into Microsoft AZURE, connect as `root` user to th
    ![conpot_running_service](conpot_running_service.PNG)
 
 
-<br>12.  Allow Incoming connection to Conpot ports (8800, 10201, 5020, 2121, 44818) on AZURE using REST API:<br>
+## Step 3:
+ Allow Incoming connection to Conpot ports (8800, 10201, 5020, 2121, 44818) on AZURE using REST API:<br>
+ <br>1.   Allow Incoming connection:<br>
     We are on the point to add security Inbound rules on the last Network Securty Group defined on step "10" `HoneyAgent1-nsg` <br>
     You can follow [API REST](create-security-rules-on-Microsoft-AZURE-by-REST-API.md) repository to create security Inbound rules into Network Securty Group: `HoneyAgent1-nsg` for the following Conpot rules.<br><br>
             `-   AllowConpot_8800_Inbound`<br>
@@ -111,7 +113,7 @@ Once you install Linux server into Microsoft AZURE, connect as `root` user to th
     
 
 
-<br>13.  Check security Inbound rules on AZURE Portal
+<br>2.  Check security Inbound rules on AZURE Portal
     <br>Open [AZURE Portal](https://portal.azure.com)<br>
     Navigate to <b>home</b> > <b>Network security group</b><br><br>
     ![rules_network_security_group](rules_network_security_group.PNG)
