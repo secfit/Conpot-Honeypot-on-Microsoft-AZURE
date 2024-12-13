@@ -20,8 +20,8 @@ Follow the detailed installation process provided in this repository : [VM-on-Mi
 
 ## Step 2:
 Once you install Linux server into Microsoft AZURE, connect as `root` user to the server via SSH protocol.<br>
-<br>
-[You can download conpot installation script from : [conpot_install.sh](conpot_install.sh)]
+
+<b>[You can pursue the following steps or download conpot installation script from : [conpot_install.sh](conpot_install.sh)]</b>
 <br>
 1.  Install mandatory packages and libraries :
    ```shell
