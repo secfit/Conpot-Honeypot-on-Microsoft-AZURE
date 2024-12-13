@@ -106,8 +106,8 @@ Once you install Linux server into Microsoft AZURE, connect as `root` user to th
 
 
 <br>13.  Check security Inbound rules on AZURE Portal
-    Open [AZURE Portal](https://portal.azure.com)<br>
-    Navigate to <b>home</b> > <b>Network security group</b>
+    <br>Open [AZURE Portal](https://portal.azure.com)<br>
+    Navigate to <b>home</b> > <b>Network security group</b><br><br>
     ![rules_network_security_group](rules_network_security_group.PNG)
     
    
