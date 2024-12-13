@@ -20,7 +20,9 @@ Follow the detailed installation process provided in this repository : [VM-on-Mi
 
 ## Step 2:
 Once you install Linux server into Microsoft AZURE, connect as `root` user to the server via SSH protocol.<br>
-
+<br>
+[You can download conpot installation script from : [conpot_install.sh](conpot_install.sh)]
+<br>
 1.  Install mandatory packages and libraries :
    ```shell
     yum install gcc openssl-devel bzip2-devel libffi-devel zlib-devel libsqlite3-dev libbz2-dev build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev wget
