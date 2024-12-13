@@ -50,7 +50,7 @@ Destination URL should be  : <br>
       Invoke-RestMethod -Uri $url -Headers $authHeader -Method PUT -Body $body
      ```
 
-#### You can download full Poweshell script [create_ip_address.ps1](create_ip_address.ps1) 
+#### You can download full Poweshell script [create_security_rule.ps1](create_security_rule.ps1) 
   You should replace the following values : <br>
   ```
   -    $NSG_name
