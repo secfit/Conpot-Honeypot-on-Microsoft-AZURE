@@ -97,4 +97,4 @@ Once you install Linux server into Microsoft AZURE, connect as `root` user to th
    ```shell
     netstat -tupln
    ```
-   ![conpot_running_service](conpot_running_service.jpeg)
+   ![conpot_running_service](conpot_running_service.PNG)
