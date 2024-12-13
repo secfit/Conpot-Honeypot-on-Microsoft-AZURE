@@ -91,3 +91,10 @@ Once you install Linux server into Microsoft AZURE, connect as `root` user to th
    ```shell
     /usr/local/bin/conpot -c /usr/local/lib/python3.9/site-packages/conpot/testing.cfg -t default -f &
    ```
+
+<br>11.  Ensure the Conpot service runned correctly on system :<br>
+    (Note : You will find that the default Conpot ports are open [8800, 10201, 5020, 2121, 44818] )<br>
+   ```shell
+    netstat -tupln
+   ```
+   ![conpot_running_service](conpot_running_service.jpeg)
