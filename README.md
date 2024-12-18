@@ -11,7 +11,8 @@ It helps cybersecurity professionals study attacks and identify potential threat
 -  Training and Research
 -  Enhancing Security
 <br><br>
-
+ ![AZURE_honeypot](AZURE_honeypot.png)
+<br>
 ### This repository is dedicated to automating the installation of Conpot in a cloud environment and exploring its key features for detecting malicious behavior in industrial control systems (ICS).
 
 ## Step 1:
